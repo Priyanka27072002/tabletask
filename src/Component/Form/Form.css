@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 10%;
+    padding: 10px;
+}
+input{
+    padding: 5px;
+}
+.sub-btn{
+    padding: 20px;
+}
+.sub-btn button{
+    padding: 5px 20px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.home-btn{
+    padding: 10px;
+}
+.home-btn button{
+    padding: 5px 20px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
